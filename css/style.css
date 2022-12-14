@@ -1,5 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+}
+
 #main-image {
-    height: 600px;
+    height: 800px;
     width: 100%;
     background: url('../images/ross-castle-night.jpg') no-repeat center center;
+    margin: 0;
+    padding: 0;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: #8fc1e3;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#bio {
+    display: flex;
+    justify-content: flex-start;
+}
+
