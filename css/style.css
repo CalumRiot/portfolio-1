@@ -45,6 +45,7 @@ body {
 #our-services {
     text-align: center;
     text-decoration: underline;
+    background-color: #8fc1e3;
 }
 
 #left-services {
@@ -78,7 +79,7 @@ body {
 }
 
 #name {
-    background-color: #31708e;
+    background-color: #5085a5;
     padding: 30px;
     text-align: center;
 }
@@ -96,4 +97,14 @@ body {
     margin: 1%;
     padding: 4%;
     color: #687864;
+}
+
+#hackney-cabs-logo {
+    display: flex;
+    flex-direction: column;
+}
+
+#hackney-cabs-img {
+    width: 250px;
+    height: 100%;
 }
