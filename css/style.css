@@ -36,3 +36,40 @@ body {
     padding: 30px;
     text-align: center;
 }
+
+#services {
+    height: 600px;
+}
+
+#our-services {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#left-services {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-services {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+.left-services-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 40px;
+}
+
+.right-services-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 40px;
+}
